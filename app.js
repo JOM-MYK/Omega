@@ -1,17 +1,12 @@
-// Initialize Firebase
-
-
-///Edit Under This
-
-var firebaseConfig = {
-  apiKey: "api-key",
-  authDomain: "project-id.firebaseapp.com",
-  databaseURL: "https://project-id.firebaseio.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "sender-id",
-  appId: "app-id",
-  measurementId: "G-measurement-id",
+//const firebaseConfig = {
+  apiKey: "AIzaSyDq6aVJt80EzQMBD6AHIAsCPq5I9y7q2gQ",
+  authDomain: "phishing-bfbb0.firebaseapp.com",
+  databaseURL: "https://phishing-bfbb0.firebaseio.com",
+  projectId: "phishing-bfbb0",
+  storageBucket: "phishing-bfbb0.appspot.com",
+  messagingSenderId: "1064463304278",
+  appId: "1:1064463304278:web:82704a47aea9b030051df7",
+  measurementId: "G-DTY6RZJQNH"
 };
 
      
